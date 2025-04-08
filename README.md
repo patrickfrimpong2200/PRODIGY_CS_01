@@ -17,9 +17,4 @@ The program allows users to:
 - The program then processes the message, shifting each alphabetical character accordingly.
 - Non-alphabetical characters (spaces, punctuation) are preserved as-is.
 
-## 💻 Sample Usage
-### Encryption: Hello world
-3
-
-    
 
