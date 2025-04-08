@@ -18,4 +18,8 @@ The program allows users to:
 - Non-alphabetical characters (spaces, punctuation) are preserved as-is.
 
 ## 💻 Sample Usage
+### Encryption: Hello world
+3
+
+    
 
