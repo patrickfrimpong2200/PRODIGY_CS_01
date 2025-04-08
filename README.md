@@ -17,4 +17,14 @@ The program allows users to:
 - The program then processes the message, shifting each alphabetical character accordingly.
 - Non-alphabetical characters (spaces, punctuation) are preserved as-is.
 
+  Sample usage
+  <p align="center">
+  <img src="![1](https://github.com/user-attachments/assets/74564f44-e798-4219-8022-b829795fd8e5)
+" width="30%" />
+  <img src="![2](https://github.com/user-attachments/assets/d206a80d-3fda-47c0-9480-7b5e512b6304)
+" width="30%" />
+  <img src="![3](https://github.com/user-attachments/assets/0cb99b1e-27f0-452a-b444-c6f18e149ea1)
+" width="30%" />
+</p>
+
 
